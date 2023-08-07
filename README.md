@@ -1,4 +1,4 @@
-![logo]
+![logo](https://github.com/Zawar7/Zawar/blob/main/za.jpg)
 <h1 align="center">Hi 👋, I'm Zawar Fazal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1ojkOYHYLXW_mXrWc6D7DoVKCK0p-3W36Q&usqp=CAU" alt="coding" align="right" width="400" margin-botttom="2px">
